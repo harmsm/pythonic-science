@@ -54,5 +54,7 @@ Programming and instruction will be done using the powerful and intuitive jupyte
 9. Open project
 10. Open project
 
+`sympy`?
+
 ### Open Project
 To help cement their skills and gain independence, students will develop a useful program that addresses a problem in their current research. The code must use a python library that the student identifies that we did not explicitly discuss in class. 
