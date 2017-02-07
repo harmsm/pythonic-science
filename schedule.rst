@@ -25,15 +25,21 @@ Final Project
 +===============+==========================================================================+====================+
 | Monday 4/3    | Getting set up: :code:`python`, :code:`jupyter`, and :code:`github`      |                    |
 +---------------+--------------------------------------------------------------------------+--------------------+
-| Wednesday 4/5 | Introduction to python and the jupyter notebook.  Python as a calculator.|                    |
+| Wednesday 4/5 | Introduction to python and the jupyter notebook.  Python as a calculator.| HW1a               |
 +---------------+--------------------------------------------------------------------------+--------------------+  
-| Friday 4/7    | Conditionals, loops, lists, numpy arrays.                                |                    |
+| Thursday 4/6  |                                                                          | HW1b               |
 +---------------+--------------------------------------------------------------------------+--------------------+
-| Monday 4/10   | Functions and namespace.                                                 | HW1 (python)       |
+| Friday 4/7    | Conditionals, loops, lists, numpy arrays.                                | HW1c               |
 +---------------+--------------------------------------------------------------------------+--------------------+
-| Wednesday 4/12| Graphing and matplotlib.                                                 |                    |
+| Monday 4/10   | Functions and namespace.                                                 | HW1d               |
++---------------+--------------------------------------------------------------------------+--------------------+
+| Tuesday 4/11  |                                                                          | HW1e               |
 +---------------+--------------------------------------------------------------------------+--------------------+  
-| Friday 4/14   | **Lab**: Programming Puzzles                                             |                    |
+| Wednesday 4/12| Graphing and matplotlib.                                                 | HW1f               |
++---------------+--------------------------------------------------------------------------+--------------------+  
+| Thursday 4/13 |                                                                          | HW1g               |
++---------------+--------------------------------------------------------------------------+--------------------+  
+| Friday 4/14   | **Lab**: Programming Puzzles                                             | HW1h               |
 +---------------+--------------------------------------------------------------------------+--------------------+
 | Monday 4/17   | **Simulation**                                                           | HW2 (puzzles)      |
 +---------------+--------------------------------------------------------------------------+--------------------+
@@ -85,19 +91,5 @@ Final Project
 +---------------+--------------------------------------------------------------------------+--------------------+
 | Monday 6/12   | ---                                                                      | Final project      |
 +---------------+--------------------------------------------------------------------------+--------------------+
-
-
-Write a program that:
----------------------
-
-1. Reads a pdb file.
-2. Determines the number of protein-protein hydrogen bonds
-3. Determines the number of protein-water hydrogen bonds.
-
-You may define a hydrogen bond as a nitrogen/oxygen or oxygen/oyxgen distance less than XX X. 
-Your program should run for any pdb file.  
-
-Download the set of pdb files here. 
-Create a histogram of protein-protein/protein-water hydrogen bonds. 
 
 
