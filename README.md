@@ -1,6 +1,10 @@
 # pythonic-science
 Materials for Scientific Programming in Python Course at the UO
 
+## Quick start
+
+
+
 ## Motivation
 
 Programming skills are increasingly integral to all aspects of physical and biological research. Programming competency enables science because the researcher is not limited to “canned” analyses and approaches. Rather, a scientific programmer can flexibly learn, apply and alter existing software as needed to answer scientific questions. This includes conceiving of and analyzing big-data experiments, mining databases of chemical and biological data, performing image analyses, fitting non-standard models to data, and prototyping experiments in silico to facilitate experimental design. 

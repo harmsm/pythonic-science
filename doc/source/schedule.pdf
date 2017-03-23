@@ -1,0 +1,1058 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 7 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:harms@uoregon.edu) >> /Border [ 0 0 0 ] /Rect [ 145.1329 623.0236 239.2129 635.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Annots [ 4 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Outlines 11 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
+endobj
+10 0 obj
+<< /Author () /CreationDate (D:20170322064624+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170322064624+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CH410/510 Scientific Computing Syllabus) /Trapped /False >>
+endobj
+11 0 obj
+<< /Count 5 /First 12 0 R /Last 14 0 R /Type /Outlines >>
+endobj
+12 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 671.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Contact) >>
+endobj
+13 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 596.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Grading) >>
+endobj
+14 0 obj
+<< /Count 1 /Dest [ 6 0 R /XYZ 62.69291 563.0236 0 ] /First 15 0 R /Last 15 0 R /Parent 11 0 R /Prev 13 0 R 
+  /Title (Assignments) >>
+endobj
+15 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 440.0236 0 ] /Parent 14 0 R /Title (Schedule) >>
+endobj
+16 0 obj
+<< /Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages >>
+endobj
+17 0 obj
+<< /Length 8728 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 37.66488 0 Td (CH410/510 Scientific Computing Syllabus) Tj T* -37.66488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The class will meet Mon and Wed for 1 hr, and then Fri for 2 hr.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .248735 Tw (In general, Mon and Wed will be instruction days where we cover new programming material. Fri will) Tj T* 0 Tw (be an open "lab" where you will work on exercises in class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Mike Harms \() Tj 0 0 .501961 rg (harms@uoregon.edu) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zach Sailer \(zsailer.uoregon.edu\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assignments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.11332 Tw (In the first two weeks, there will be micro-homework sets, due at 11:59 pm each day. The goal of) Tj T* 0 Tw (these is to force you to practice programming in short stretches every day.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There will be 7 labs. We will start the labs on Fri in class. They will be due the following Wed in class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Project prospectus \(Due May 12\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project \(Due June 12\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+Q
+q
+1 0 0 1 62.69291 104.0236 cm
+1 1 1 rg
+n 0 306 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 288 469.8898 -30 re f*
+1 1 1 rg
+n 0 258 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 228 469.8898 -30 re f*
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 306 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 291 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 29.05833 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 3.969164 0 Td (Date) Tj T* -3.969164 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.05833 291 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 325.5907 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 150.5704 0 Td (Topic) Tj T* -150.5704 0 Td ET
+Q
+Q
+q
+1 0 0 1 384.649 291 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 79.24073 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 30.45037 0 Td (Due) Tj T* -30.45037 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (4/3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 273 cm
+q
+.960784 .960784 .862745 rg
+n 67.82 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 109.38 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 176.4 0 18 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Getting set up: ) Tj /F3 10 Tf 0 0 0 rg (python) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (jupyter) Tj /F1 10 Tf 0 0 0 rg (, and ) Tj /F3 10 Tf 0 0 0 rg (git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (4/5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to python and the jupyter notebook. Python as a calculator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1a) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Thu) Tj T* (4/6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1b) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fri 4/7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Conditionals, loops, lists, numpy arrays.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (4/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Functions and namespace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Tue) Tj T* (4/11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (4/12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Graphing and matplotlib.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1f) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Thu) Tj T* (4/13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1g) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (4/14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 45 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Programming Puzzles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW1h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (4/17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Simulation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 288 m 469.8898 288 l S
+n 0 258 m 469.8898 258 l S
+n 0 228 m 469.8898 228 l S
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 41.05833 0 m 41.05833 306 l S
+n 378.649 0 m 378.649 306 l S
+n 0 306 m 469.8898 306 l S
+n 0 0 m 0 306 l S
+n 469.8898 0 m 469.8898 306 l S
+Q
+Q
+ 
+endstream
+endobj
+18 0 obj
+<< /Length 7912 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 81.02362 cm
+1 1 1 rg
+n 0 684 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 654 469.8898 -30 re f*
+1 1 1 rg
+n 0 624 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 594 469.8898 -30 re f*
+1 1 1 rg
+n 0 564 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 534 469.8898 -30 re f*
+1 1 1 rg
+n 0 504 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 474 469.8898 -18 re f*
+1 1 1 rg
+n 0 456 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 426 469.8898 -30 re f*
+1 1 1 rg
+n 0 396 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 366 469.8898 -30 re f*
+1 1 1 rg
+n 0 336 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 306 469.8898 -30 re f*
+1 1 1 rg
+n 0 276 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 246 469.8898 -30 re f*
+1 1 1 rg
+n 0 216 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 186 469.8898 -30 re f*
+1 1 1 rg
+n 0 156 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 126 469.8898 -18 re f*
+1 1 1 rg
+n 0 108 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 78 469.8898 -30 re f*
+1 1 1 rg
+n 0 48 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 657 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (4/19) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 669 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW2 \(puzzles\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 627 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (4/21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 639 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Simulating an experiment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (4/24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 609 cm
+q
+.960784 .960784 .862745 rg
+n 91.69 0 84 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Model Regression) Tj /F1 10 Tf (: ) Tj /F3 10 Tf 0 0 0 rg (scipy.optimize) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 567 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (4/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW3 \(simulation\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 537 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (4/28) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 549 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Fitting stuff) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 507 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (5/1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 519 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Classification with machine learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 477 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (5/3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 489 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW4 \(fitting\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fri 5/5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 459 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Classification with machine learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 429 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (5/8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Molecular structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (5/10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW5 \(machines\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 369 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (5/12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 381 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Calculating structural properties) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 369 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Project) Tj T* (prospectus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (5/15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (High-throughput sequencing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (5/17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 321 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW6 \(structure\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (5/19) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 291 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Analyzing high-throughput sequencing ) Tj /F4 10 Tf (Mike Gone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (5/22) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Microscopy images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (5/24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW7 \(HTS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Fri) Tj T* (5/26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 201 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lab) Tj /F1 10 Tf (: Analyzing microscopy images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (5/29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 171 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Memorial Day. No class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (5/31) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project in class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HW8 \(images\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fri 6/2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project in class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (6/5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project in class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wed) Tj T* (6/7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project in class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fri 6/9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project in class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Mon) Tj T* (6/12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.05833 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (---) Tj T* ET
+Q
+Q
+q
+1 0 0 1 384.649 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Final project) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 684 m 469.8898 684 l S
+n 0 654 m 469.8898 654 l S
+n 0 624 m 469.8898 624 l S
+n 0 594 m 469.8898 594 l S
+n 0 564 m 469.8898 564 l S
+n 0 534 m 469.8898 534 l S
+n 0 504 m 469.8898 504 l S
+n 0 474 m 469.8898 474 l S
+n 0 456 m 469.8898 456 l S
+n 0 426 m 469.8898 426 l S
+n 0 396 m 469.8898 396 l S
+n 0 366 m 469.8898 366 l S
+n 0 336 m 469.8898 336 l S
+n 0 306 m 469.8898 306 l S
+n 0 276 m 469.8898 276 l S
+n 0 246 m 469.8898 246 l S
+n 0 216 m 469.8898 216 l S
+n 0 186 m 469.8898 186 l S
+n 0 156 m 469.8898 156 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 30 m 469.8898 30 l S
+n 41.05833 0 m 41.05833 684 l S
+n 378.649 0 m 378.649 684 l S
+n 0 0 m 0 684 l S
+n 469.8898 0 m 469.8898 684 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<< /Nums [ 0 20 0 R 1 21 0 R ] >>
+endobj
+20 0 obj
+<< /S /D /St 1 >>
+endobj
+21 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000543 00000 n
+0000000651 00000 n
+0000000878 00000 n
+0000000996 00000 n
+0000001205 00000 n
+0000001313 00000 n
+0000001614 00000 n
+0000001691 00000 n
+0000001802 00000 n
+0000001926 00000 n
+0000002081 00000 n
+0000002180 00000 n
+0000002249 00000 n
+0000011034 00000 n
+0000019003 00000 n
+0000019056 00000 n
+0000019093 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(S\257,/\313:\302\333\351\272\313\336_y\247\337) (S\257,/\313:\302\333\351\272\313\336_y\247\337)]
+ /Info 10 0 R /Root 9 0 R /Size 22 >>
+startxref
+19130
+%%EOF

@@ -1,0 +1,885 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Outlines 10 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog >>
+endobj
+9 0 obj
+<< /Author () /CreationDate (D:20170322064933+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170322064933+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Final Project) /Trapped /False >>
+endobj
+10 0 obj
+<< /Count 7 /First 11 0 R /Last 14 0 R /Type /Outlines >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 617.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Constraints) >>
+endobj
+12 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 440.0236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Resources) >>
+endobj
+13 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 311.0236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Project Ideas:) >>
+endobj
+14 0 obj
+<< /Count 2 /Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /First 15 0 R /Last 16 0 R /Parent 10 0 R /Prev 13 0 R 
+  /Title (What you turn in:) >>
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 732.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Prospectus:) >>
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 498.0236 0 ] /Parent 14 0 R /Prev 15 0 R /Title (Final project) >>
+endobj
+17 0 obj
+<< /Count 2 /Kids [ 5 0 R 7 0 R ] /Type /Pages >>
+endobj
+18 0 obj
+<< /Length 8606 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 174.9249 0 Td (Final Project) Tj T* -174.9249 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .117132 Tw 12 TL /F1 10 Tf 0 0 0 rg (The end goal of this course is that you will be able to build your own software to solve your own problems.) Tj T* 0 Tw (To work on this, you will write a program to solve a problem or answer a question from your own research.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .364692 Tw 12 TL /F2 10 Tf 0 0 0 rg (I would rather you select an interesting problem than worry about your ability to code it. ) Tj /F1 10 Tf (We'll help) Tj T* 0 Tw .977356 Tw (you scope the problem with a project proposal. \(The earlier you turn this in, the better we can help you) Tj T* 0 Tw .786654 Tw (succeed\). Further, the last two weeks of class will be devoted working on your programs in class. If you) Tj T* 0 Tw .615251 Tw (put in significant effort, but it becomes clear your program won't work, we will not dock you for this. Your) Tj T* 0 Tw .104772 Tw (program has to run and do something on the way to your final goal by the end of class; it does not have to) Tj T* 0 Tw (achieve the stated goal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The problem should be real.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (At the end of the day, the program you write should be useful.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .20936 Tw (The approach should be feasible. This means it is not only mathematically possible, but that you can) Tj T* 0 Tw (make significant progress on the project in a few weeks of coding.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.779984 Tw 12 TL /F1 10 Tf 0 0 0 rg (The problem should ) Tj /F2 10 Tf (not ) Tj /F1 10 Tf (be one you could solve better and faster using an existing software) Tj T* 0 Tw .398221 Tw (package. If you say you're going to write a transcriptome assembler, I'm going to point you to Trinity) Tj T* 0 Tw (\(unless you have reason to believe you can do better!\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 476.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.468555 Tw (If you need data to develop the program \(e.g. experimental images, sequencing runs, etc.\) these) Tj T* 0 Tw (should already have been collected.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .206651 Tw 12 TL /F2 10 Tf 0 0 0 rg (Definitely ) Tj /F1 10 Tf (use software packages that help you achieve your goals. If you're analyzing colonies on a) Tj T* 0 Tw (plate, use libraries like ) Tj /F3 10 Tf 0 0 0 rg (PIL ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (skimage ) Tj /F1 10 Tf 0 0 0 rg (--don't write your own image parser!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 377.0236 cm
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Talk to your lab mates and PI about interesting problems and what software might be useful.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.0236 cm
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.078735 Tw (Talk to Zach and me about strategies. For example, if you want to classify stuff, machine learning) Tj T* 0 Tw .49408 Tw (might be the way to go. We're not going to discuss it in detail in class, but Zach and I can point you) Tj T* 0 Tw (to resources that will help you get started.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Project Ideas:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Counting/classifying something in an automated fashion) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 248.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fitting complicated model\(s\) to data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Squeezing every last drop of information out of a high-throughput experiment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Processing spectra) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pulling shapes out images) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tracking a particle in a video) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.0236 cm
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract some cool feature out of an MD simulation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 152.0236 cm
+Q
+q
+1 0 0 1 62.69291 140.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Machine learning to classify stuff) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 140.0236 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<< /Length 6433 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What you turn in:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Prospectus:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Due on \(or, preferably, way before\) Friday, May 12th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It should have the following \(bullet points are fine\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identify a problem from your research that you will solve computationally.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.409431 Tw (Describe the strategy your program will use as a flow chart. \(Can be hand drawn, as long as it's) Tj T* 0 Tw (legible\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.46186 Tw (Describe the data you will use to develop your program \(for example: images from a control and) Tj T* 0 Tw (treatment condition\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Describe how you will verify the program is actually doing what you want it to do.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Describe existing software that you can use to help solve the problem.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .566988 Tw (The point of the prospectus is to help you think through the project, not to create busy work. I will review) Tj T* 0 Tw 1.299985 Tw (the proposal and discuss it with you one-on-one during one of the in-class workshops. The earlier you) Tj T* 0 Tw .115703 Tw (bring it in, the earlier you can get rolling on the final project. If there are issues that should be addressed, I) Tj T* 0 Tw (might ask for a revised version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Final project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Due on Monday, June 12th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.329987 Tw (You will turn in EITHER a url for a github repo OR a zipped directory containing your project. The) Tj T* 0 Tw (repo/directory should have the follwing structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F4 10 Tf 12 TL (README.md) Tj T* (python-y bits) Tj T* (demo.ipynb) Tj T* (data_files/) Tj T* (    data_file_for_demo) Tj T* (    data_file_for_demo) Tj T* (    ...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 306.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Assessment critera:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.8236 cm
+Q
+q
+1 0 0 1 62.69291 300.8236 cm
+Q
+q
+1 0 0 1 62.69291 276.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .00186 Tw (Does the README.md file give sufficient information to know what the software does and how to use) Tj T* 0 Tw (it?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 270.8236 cm
+Q
+q
+1 0 0 1 62.69291 258.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Does the software actually solve a meaningful problem or analyze data in an interesting way?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.8236 cm
+Q
+q
+1 0 0 1 62.69291 240.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 26.12 0 60 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Does ) Tj /F4 10 Tf 0 0 0 rg (demo.ipynb ) Tj /F1 10 Tf 0 0 0 rg (run without error?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.8236 cm
+Q
+q
+1 0 0 1 62.69291 222.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 26.12 0 60 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Does ) Tj /F4 10 Tf 0 0 0 rg (demo.ipynb ) Tj /F1 10 Tf 0 0 0 rg (effectively demonstrate the capabilities of the software?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.8236 cm
+Q
+q
+1 0 0 1 62.69291 204.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Is your python code well-documented and readable?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.8236 cm
+Q
+ 
+endstream
+endobj
+20 0 obj
+<< /Nums [ 0 21 0 R 1 22 0 R ] >>
+endobj
+21 0 obj
+<< /S /D /St 1 >>
+endobj
+22 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 23
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000482 00000 n
+0000000691 00000 n
+0000000799 00000 n
+0000001008 00000 n
+0000001116 00000 n
+0000001390 00000 n
+0000001467 00000 n
+0000001582 00000 n
+0000001708 00000 n
+0000001839 00000 n
+0000002000 00000 n
+0000002115 00000 n
+0000002232 00000 n
+0000002301 00000 n
+0000010964 00000 n
+0000017454 00000 n
+0000017507 00000 n
+0000017544 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(5N9k y\333s\004\370\0271l\202\251E) (5N9k y\333s\004\370\0271l\202\251E)]
+ /Info 9 0 R /Root 8 0 R /Size 23 >>
+startxref
+17581
+%%EOF

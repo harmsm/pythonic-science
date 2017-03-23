@@ -1,0 +1,3966 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 32 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /Contents 33 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Contents 34 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 35 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /Contents 36 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+12 0 obj
+<< /Contents 37 0 R /MediaBox [ 0 0 612 792 ] /Parent 31 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+13 0 obj
+<< /Outlines 15 0 R /PageLabels 38 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog >>
+endobj
+14 0 obj
+<< /Author () /CreationDate (D:20170322072615+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170322072615+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Python cheat sheet) /Trapped /False >>
+endobj
+15 0 obj
+<< /Count 18 /First 16 0 R /Last 30 0 R /Type /Outlines >>
+endobj
+16 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 679.1339 0 ] /Next 17 0 R /Parent 15 0 R /Title (Comparison operators) >>
+endobj
+17 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 360.9339 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Conditionals) >>
+endobj
+18 0 obj
+<< /Count 3 /Dest [ 8 0 R /XYZ 62.69291 641.9339 0 ] /First 19 0 R /Last 21 0 R /Next 22 0 R /Parent 15 0 R 
+  /Prev 17 0 R /Title (Loops) >>
+endobj
+19 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 608.9339 0 ] /Next 20 0 R /Parent 18 0 R /Title (for syntax) >>
+endobj
+20 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 462.7339 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (while syntax) >>
+endobj
+21 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 212.5339 0 ] /Parent 18 0 R /Prev 20 0 R /Title (continue and break syntax) >>
+endobj
+22 0 obj
+<< /Count 7 /Dest [ 9 0 R /XYZ 62.69291 593.9339 0 ] /First 23 0 R /Last 24 0 R /Next 30 0 R /Parent 15 0 R 
+  /Prev 18 0 R /Title (Datatypes) >>
+endobj
+23 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 560.9339 0 ] /Next 24 0 R /Parent 22 0 R /Title (Single-value datatypes) >>
+endobj
+24 0 obj
+<< /Count 5 /Dest [ 9 0 R /XYZ 62.69291 470.9339 0 ] /First 25 0 R /Last 29 0 R /Parent 22 0 R /Prev 23 0 R 
+  /Title (List-like objects) >>
+endobj
+25 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 440.9339 0 ] /Next 26 0 R /Parent 24 0 R /Title (list) >>
+endobj
+26 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 666.0661 0 ] /Next 27 0 R /Parent 24 0 R /Prev 25 0 R /Title (tuple) >>
+endobj
+27 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 435.0661 0 ] /Next 28 0 R /Parent 24 0 R /Prev 26 0 R /Title (dict) >>
+endobj
+28 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 613.1339 0 ] /Next 29 0 R /Parent 24 0 R /Prev 27 0 R /Title (string) >>
+endobj
+29 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 304.1339 0 ] /Parent 24 0 R /Prev 28 0 R /Title (numpy.array) >>
+endobj
+30 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 439.1339 0 ] /Parent 15 0 R /Prev 22 0 R /Title (Libraries) >>
+endobj
+31 0 obj
+<< /Count 6 /Kids [ 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Type /Pages >>
+endobj
+32 0 obj
+<< /Length 9725 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 151.6171 0 Td (Python cheat sheet) Tj T* -151.6171 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Comparison operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 640.1339 cm
+q
+.960784 .960784 .862745 rg
+n 172.29 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 213.96 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Used to compare two objects. Returns ) Tj /F3 10 Tf 0 0 0 rg (True ) Tj /F1 10 Tf 0 0 0 rg (or ) Tj /F3 10 Tf 0 0 0 rg (False) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (<) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(less than\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (<) Tj (=) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(less than or equal to\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (>) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(greater than\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (>) Tj (=) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(greater than or equal to\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (==) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(is equal to\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x) Tj ( ) Tj (!=) Tj ( ) Tj (y ) Tj /F1 10 Tf 0 0 0 rg (\(is not equal to\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+Q
+q
+1 0 0 1 62.69291 508.1339 cm
+q
+.960784 .960784 .862745 rg
+n 136.18 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 179.64 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (These can be combined using ) Tj /F3 10 Tf 0 0 0 rg (and ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (or) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 490.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.9339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 108 re B*
+Q
+q
+BT 1 0 0 1 0 86 Tm 12 TL /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (=) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (0) Tj 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (y) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (=) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (5) Tj 0 0 0 rg  T*  T* /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (y) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is smaller than y") Tj /F1 10 Tf 0 0 0 rg (\)) Tj /F3 10 Tf 0 0 0 rg  T*  T* /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (\() Tj 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (y) Tj 0 0 0 rg (\)) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (\() Tj 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (1) Tj /F1 10 Tf 0 0 0 rg (\):) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is smaller than y and x is less than 1") Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 339.9339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Conditionals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.7339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 108 re B*
+Q
+q
+BT 1 0 0 1 0 86 Tm 12 TL /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (condition_one) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (do_something) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (elif) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (condition_two) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (do_something_else) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (elif) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (condition_three) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (do_another_thing) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (else) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (do_yet_another_thing) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 178.7339 cm
+q
+.960784 .960784 .862745 rg
+n 30.95035 24 78 12 re f*
+.960784 .960784 .862745 rg
+n 115.4507 24 78.94035 12 re f*
+.960784 .960784 .862745 rg
+n 220.7914 24 90.94035 12 re f*
+.960784 .960784 .862745 rg
+n 459.3942 24 23.05965 12 re f*
+.960784 .960784 .862745 rg
+n 11.73383 12 30 12 re f*
+BT 1 0 0 1 0 26 Tm .940348 Tw 12 TL /F1 10 Tf 0 0 0 rg (where ) Tj /F3 10 Tf 0 0 0 rg (condition_one) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (condition_two ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (condition_three ) Tj /F1 10 Tf 0 0 0 rg (are things that can be read as ) Tj /F3 10 Tf 0 0 0 rg (True) Tj T* 0 Tw .063826 Tw /F1 10 Tf 0 0 0 rg (or ) Tj /F3 10 Tf 0 0 0 rg (False) Tj /F1 10 Tf 0 0 0 rg (. ) Tj /F4 10 Tf 0 0 0 rg (else ) Tj /F1 10 Tf 0 0 0 rg (is run if none of the other conditions are met. If multiple conditions are met, only the first one is) Tj T* 0 Tw (executed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 160.7339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.53386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (=) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (2) Tj 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (0) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is negative") Tj /F1 10 Tf 0 0 0 rg (\)) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (elif) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (==) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (0) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is zero") Tj /F1 10 Tf 0 0 0 rg (\)) Tj /F3 10 Tf 0 0 0 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+33 0 obj
+<< /Length 7835 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 653.9339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F1 10 Tf 0 0 0 rg (elif) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (>) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (0) Tj 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (and) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (100) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is positive but less than 100") Tj /F1 10 Tf 0 0 0 rg (\)) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (else) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj /F3 10 Tf 0 0 0 rg ("x is bigger than 100") Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 620.9339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Loops) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.9339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (for ) Tj /F2 15 Tf 0 0 0 rg (syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.7339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (x) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (in) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (iterator) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (something_to_x) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 525.7339 cm
+q
+.960784 .960784 .862745 rg
+n 30.01 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 160.7 0 54 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (where ) Tj /F3 10 Tf 0 0 0 rg (iterator ) Tj /F1 10 Tf 0 0 0 rg (is something like ) Tj /F3 10 Tf 0 0 0 rg (range\(10\) ) Tj /F1 10 Tf 0 0 0 rg (or a list that has multiple entries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.7339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Example ) Tj /F1 10 Tf (.. sourcecode:: python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.7339 cm
+Q
+q
+1 0 0 1 62.69291 474.7339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (for i in range\(10\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (print\(i\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 474.7339 cm
+Q
+q
+1 0 0 1 62.69291 444.7339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (while ) Tj /F2 15 Tf 0 0 0 rg (syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.5339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (while) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (condition) Tj 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (something) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 379.5339 cm
+q
+.960784 .960784 .862745 rg
+n 30.01 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 237.31 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 278.98 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (where ) Tj /F3 10 Tf 0 0 0 rg (condition ) Tj /F1 10 Tf 0 0 0 rg (is something that can be read as ) Tj /F3 10 Tf 0 0 0 rg (True ) Tj /F1 10 Tf 0 0 0 rg (or ) Tj /F3 10 Tf 0 0 0 rg (False) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.5339 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Example ) Tj /F1 10 Tf (.. sourcecode:: python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 355.5339 cm
+Q
+q
+1 0 0 1 62.69291 325.5339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (i = 0 while i < 10:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (print\(i\) i = i + 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 325.5339 cm
+Q
+q
+1 0 0 1 62.69291 313.5339 cm
+Q
+q
+1 0 0 1 62.69291 230.5339 cm
+.960784 .960784 .862745 rg
+n 0 83 486.6142 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+.960784 .960784 .862745 rg
+n 75.19076 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 81.19076 12 6.73019 12 re f*
+.960784 .960784 .862745 rg
+n 87.92095 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 93.92095 12 6.73019 12 re f*
+.960784 .960784 .862745 rg
+n 100.6511 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 106.6511 12 6.73019 12 re f*
+.960784 .960784 .862745 rg
+n 113.3813 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 119.3813 12 6.73019 12 re f*
+.960784 .960784 .862745 rg
+n 126.1115 12 6.73019 12 re f*
+.960784 .960784 .862745 rg
+n 233.97 0 30 12 re f*
+BT 1 0 0 1 0 14 Tm .73019 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you forgot the ) Tj /F3 10 Tf 0 0 0 rg (i) Tj ( ) Tj (=) Tj ( ) Tj (i) Tj ( ) Tj (+) Tj ( ) Tj (1 ) Tj /F1 10 Tf 0 0 0 rg (line in the code above, it would create and infinite loop and your code) Tj T* 0 Tw (would freeze. This is a common mistake when using ) Tj /F3 10 Tf 0 0 0 rg (while ) Tj /F1 10 Tf 0 0 0 rg (loops.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 486.6142 83 l S
+n 0 0 m 486.6142 0 l S
+n 0 0 m 0 83 l S
+n 486.6142 0 m 486.6142 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 224.5339 cm
+Q
+q
+1 0 0 1 62.69291 194.5339 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 72 18 re f*
+.960784 .960784 .862745 rg
+n 111.84 0 45 18 re f*
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (continue ) Tj /F2 15 Tf 0 0 0 rg (and ) Tj /F3 15 Tf 0 0 0 rg (break ) Tj /F2 15 Tf 0 0 0 rg (syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 182.5339 cm
+Q
+q
+1 0 0 1 62.69291 182.5339 cm
+Q
+q
+1 0 0 1 62.69291 170.5339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (continue ) Tj /F1 10 Tf 0 0 0 rg (hops to the next iteration of the loop) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 164.5339 cm
+Q
+q
+1 0 0 1 62.69291 152.5339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (break ) Tj /F1 10 Tf 0 0 0 rg (terminates the loop) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 152.5339 cm
+Q
+q
+1 0 0 1 62.69291 134.5339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.33386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F1 10 Tf 0 0 0 rg (# Will print i from 6 to 90) Tj /F3 10 Tf 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (=) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (0) Tj 0 0 0 rg  T* /F1 10 Tf 0 0 0 rg (while) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (100) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+34 0 obj
+<< /Length 11856 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 605.9339 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 485.4142 108 re B*
+Q
+q
+BT 1 0 0 1 0 86 Tm 12 TL /F3 10 Tf 0 0 0 rg (    ) Tj /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (=) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (+) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (1) Tj 0 0 0 rg  T* (    ) Tj /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (<) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (5) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (        ) Tj /F1 10 Tf 0 0 0 rg (continue) Tj /F3 10 Tf 0 0 0 rg  T*  T* (    ) Tj /F1 10 Tf 0 0 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (i) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F1 10 Tf 0 0 0 rg (>) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (90) Tj /F1 10 Tf 0 0 0 rg (:) Tj /F3 10 Tf 0 0 0 rg  T* (        ) Tj /F1 10 Tf 0 0 0 rg (break) Tj /F3 10 Tf 0 0 0 rg  T*  T* (    ) Tj /F1 10 Tf 0 0 0 rg (print) Tj 0 0 0 rg (\() Tj 0 0 0 rg (i) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 572.9339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Datatypes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.9339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Single-value datatypes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.9339 cm
+Q
+q
+1 0 0 1 62.69291 530.9339 cm
+Q
+q
+1 0 0 1 62.69291 518.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 18 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (int ) Tj /F1 10 Tf 0 0 0 rg (\(integer\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 512.9339 cm
+Q
+q
+1 0 0 1 62.69291 500.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (bool ) Tj /F1 10 Tf 0 0 0 rg (\(True or False\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 494.9339 cm
+Q
+q
+1 0 0 1 62.69291 482.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (float ) Tj /F1 10 Tf 0 0 0 rg (\(decimal number\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 482.9339 cm
+Q
+q
+1 0 0 1 62.69291 452.9339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (List-like objects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.9339 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 30 15 re f*
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.9339 cm
+Q
+q
+1 0 0 1 62.69291 413.9339 cm
+Q
+q
+1 0 0 1 62.69291 401.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Specs) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 401.9339 cm
+Q
+q
+1 0 0 1 62.69291 395.9339 cm
+Q
+q
+1 0 0 1 62.69291 359.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (collection of arbitrary objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (indexed by number \(starting from 0\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.9339 cm
+Q
+q
+1 0 0 1 62.69291 353.9339 cm
+Q
+q
+1 0 0 1 62.69291 353.9339 cm
+Q
+q
+1 0 0 1 62.69291 341.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Creating new) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 341.9339 cm
+Q
+q
+1 0 0 1 62.69291 335.9339 cm
+Q
+q
+1 0 0 1 62.69291 299.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list) Tj ( ) Tj (=) Tj ( ) Tj ([] ) Tj /F1 10 Tf 0 0 0 rg (creates a new, empty list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 42 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list) Tj ( ) Tj (=) Tj ( ) Tj ([1,2,3] ) Tj /F1 10 Tf 0 0 0 rg (creates a new list with three entries) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 299.9339 cm
+Q
+q
+1 0 0 1 62.69291 293.9339 cm
+Q
+q
+1 0 0 1 62.69291 293.9339 cm
+Q
+q
+1 0 0 1 62.69291 281.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adding new entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.9339 cm
+Q
+q
+1 0 0 1 62.69291 275.9339 cm
+Q
+q
+1 0 0 1 62.69291 239.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114 12 re f*
+.960784 .960784 .862745 rg
+n 211.17 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list.append\(1\) ) Tj /F1 10 Tf 0 0 0 rg (appends the integer ) Tj /F3 10 Tf 0 0 0 rg (1 ) Tj /F1 10 Tf 0 0 0 rg (to the end of the list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 120 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list.append\({}\) ) Tj /F1 10 Tf 0 0 0 rg (appends an empty dictionary to the end of the list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 239.9339 cm
+Q
+q
+1 0 0 1 62.69291 233.9339 cm
+Q
+q
+1 0 0 1 62.69291 233.9339 cm
+Q
+q
+1 0 0 1 62.69291 221.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Remove entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 221.9339 cm
+Q
+q
+1 0 0 1 62.69291 215.9339 cm
+Q
+q
+1 0 0 1 62.69291 197.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 96 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list.pop\(1\) ) Tj /F1 10 Tf 0 0 0 rg (returns the second entry and removes it from the list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.9339 cm
+Q
+q
+1 0 0 1 62.69291 191.9339 cm
+Q
+q
+1 0 0 1 62.69291 191.9339 cm
+Q
+q
+1 0 0 1 62.69291 179.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Getting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 179.9339 cm
+Q
+q
+1 0 0 1 62.69291 173.9339 cm
+Q
+q
+1 0 0 1 62.69291 119.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 72 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list[0] ) Tj /F1 10 Tf 0 0 0 rg (gives first entry in list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 78 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list[-1] ) Tj /F1 10 Tf 0 0 0 rg (gives last entry in list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 84 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list[1:3] ) Tj /F1 10 Tf 0 0 0 rg (gives the second and third entry in list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 119.9339 cm
+Q
+q
+1 0 0 1 62.69291 113.9339 cm
+Q
+q
+1 0 0 1 62.69291 113.9339 cm
+Q
+q
+1 0 0 1 62.69291 101.9339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Setting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 101.9339 cm
+Q
+q
+1 0 0 1 62.69291 95.93386 cm
+Q
+q
+1 0 0 1 62.69291 77.93386 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 72 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 196.49 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list[0]) Tj ( ) Tj (=) Tj ( ) Tj (5 ) Tj /F1 10 Tf 0 0 0 rg (sets the first value to ) Tj /F3 10 Tf 0 0 0 rg (5) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+35 0 obj
+<< /Length 15219 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 678.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 201.94 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_list[-1]) Tj ( ) Tj (=) Tj ( ) Tj (5 ) Tj /F1 10 Tf 0 0 0 rg (sets the last value to ) Tj /F3 10 Tf 0 0 0 rg (5) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 12 84 12 re f*
+.960784 .960784 .862745 rg
+n 84 12 10.18118 12 re f*
+.960784 .960784 .862745 rg
+n 94.18118 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 100.1812 12 10.18118 12 re f*
+.960784 .960784 .862745 rg
+n 110.3624 12 64.18118 12 re f*
+.960784 .960784 .862745 rg
+n 368.2318 12 40.18118 12 re f*
+.960784 .960784 .862745 rg
+n 438.0542 12 6 12 re f*
+BT 1 0 0 1 0 14 Tm 4.181181 Tw 12 TL /F3 10 Tf 0 0 0 rg (some_list[1:3]) Tj ( ) Tj (=) Tj ( ) Tj (["test",8] ) Tj /F1 10 Tf 0 0 0 rg (sets the second and third entries to ) Tj /F3 10 Tf 0 0 0 rg ("test" ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (8) Tj /F1 10 Tf 0 0 0 rg (,) Tj T* 0 Tw (respectively.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 678.0661 cm
+Q
+q
+1 0 0 1 62.69291 651.0661 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 37.5 15 re f*
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (tuple) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0661 cm
+Q
+q
+1 0 0 1 62.69291 639.0661 cm
+Q
+q
+1 0 0 1 62.69291 627.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Specs) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 627.0661 cm
+Q
+q
+1 0 0 1 62.69291 621.0661 cm
+Q
+q
+1 0 0 1 62.69291 585.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (collection of arbitrary objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (behaves just like a list ) Tj /F4 10 Tf (except ) Tj /F1 10 Tf (that once it is created it cannot be modified.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0661 cm
+Q
+q
+1 0 0 1 62.69291 579.0661 cm
+Q
+q
+1 0 0 1 62.69291 579.0661 cm
+Q
+q
+1 0 0 1 62.69291 567.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Creating new) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 567.0661 cm
+Q
+q
+1 0 0 1 62.69291 561.0661 cm
+Q
+q
+1 0 0 1 62.69291 543.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 42 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_tuple) Tj ( ) Tj (=) Tj ( ) Tj (\(1,2,3\) ) Tj /F1 10 Tf 0 0 0 rg (creates a new tuple) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 543.0661 cm
+Q
+q
+1 0 0 1 62.69291 537.0661 cm
+Q
+q
+1 0 0 1 62.69291 537.0661 cm
+Q
+q
+1 0 0 1 62.69291 525.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adding new entry) Tj /F1 10 Tf (: can't be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0661 cm
+Q
+q
+1 0 0 1 62.69291 507.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Remove entry) Tj /F1 10 Tf (: can't be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 501.0661 cm
+Q
+q
+1 0 0 1 62.69291 489.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Getting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.0661 cm
+Q
+q
+1 0 0 1 62.69291 483.0661 cm
+Q
+q
+1 0 0 1 62.69291 465.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Indexing and slicing rules just like lists) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 465.0661 cm
+Q
+q
+1 0 0 1 62.69291 459.0661 cm
+Q
+q
+1 0 0 1 62.69291 459.0661 cm
+Q
+q
+1 0 0 1 62.69291 447.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Setting values) Tj /F1 10 Tf (: can't be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0661 cm
+Q
+q
+1 0 0 1 62.69291 420.0661 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 30 15 re f*
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (dict) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0661 cm
+Q
+q
+1 0 0 1 62.69291 408.0661 cm
+Q
+q
+1 0 0 1 62.69291 396.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Specs) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0661 cm
+Q
+q
+1 0 0 1 62.69291 390.0661 cm
+Q
+q
+1 0 0 1 62.69291 306.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (collection of arbitrary objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (objects are indexed by keys) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (keys can be almost any type ) Tj /F4 10 Tf (except ) Tj /F1 10 Tf (lists and dictionaries.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .212136 Tw (dictionaries are not ordered, meaning that if you loop through them more than once, the items could) Tj T* 0 Tw (pop out in a different order) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 306.0661 cm
+Q
+q
+1 0 0 1 62.69291 300.0661 cm
+Q
+q
+1 0 0 1 62.69291 300.0661 cm
+Q
+q
+1 0 0 1 62.69291 288.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Creating new) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 288.0661 cm
+Q
+q
+1 0 0 1 62.69291 282.0661 cm
+Q
+q
+1 0 0 1 62.69291 234.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_dict) Tj ( ) Tj (=) Tj ( ) Tj ({} ) Tj /F1 10 Tf 0 0 0 rg (creates a new, empty dictionary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 12 54 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 7.17947 12 re f*
+.960784 .960784 .862745 rg
+n 61.17947 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 67.17947 12 7.17947 12 re f*
+.960784 .960784 .862745 rg
+n 74.35894 12 127.1795 12 re f*
+.960784 .960784 .862745 rg
+n 344.5958 12 37.17947 12 re f*
+.960784 .960784 .862745 rg
+n 26.68 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 64.14 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 168.3 0 36 12 re f*
+BT 1 0 0 1 0 14 Tm 1.17947 Tw 12 TL /F3 10 Tf 0 0 0 rg (some_dict) Tj ( ) Tj (=) Tj ( ) Tj ({"cows":27,18:"dogs"} ) Tj /F1 10 Tf 0 0 0 rg (creates a new dictionary with ) Tj /F3 10 Tf 0 0 0 rg ("cows" ) Tj /F1 10 Tf 0 0 0 rg (keying to the) Tj T* 0 Tw (value ) Tj /F3 10 Tf 0 0 0 rg (27 ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (18 ) Tj /F1 10 Tf 0 0 0 rg (keying to the value ) Tj /F3 10 Tf 0 0 0 rg ("dogs") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.0661 cm
+Q
+q
+1 0 0 1 62.69291 228.0661 cm
+Q
+q
+1 0 0 1 62.69291 228.0661 cm
+Q
+q
+1 0 0 1 62.69291 216.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adding new entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.0661 cm
+Q
+q
+1 0 0 1 62.69291 210.0661 cm
+Q
+q
+1 0 0 1 62.69291 180.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 12 126 12 re f*
+.960784 .960784 .862745 rg
+n 126 12 8.420417 12 re f*
+.960784 .960784 .862745 rg
+n 134.4204 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 140.4204 12 8.420417 12 re f*
+.960784 .960784 .862745 rg
+n 148.8408 12 38.42042 12 re f*
+.960784 .960784 .862745 rg
+n 383.6142 12 57.57958 12 re f*
+.960784 .960784 .862745 rg
+n 69.48 0 36 12 re f*
+BT 1 0 0 1 0 14 Tm 2.420417 Tw 12 TL /F3 10 Tf 0 0 0 rg (some_dict["meddling"]) Tj ( ) Tj (=) Tj ( ) Tj ("kids" ) Tj /F1 10 Tf 0 0 0 rg (creates a key/value pair where the key ) Tj /F3 10 Tf 0 0 0 rg ("meddling") Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (gives the value ) Tj /F3 10 Tf 0 0 0 rg ("kids") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 180.0661 cm
+Q
+q
+1 0 0 1 62.69291 174.0661 cm
+Q
+q
+1 0 0 1 62.69291 174.0661 cm
+Q
+q
+1 0 0 1 62.69291 162.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Remove entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 162.0661 cm
+Q
+q
+1 0 0 1 62.69291 156.0661 cm
+Q
+q
+1 0 0 1 62.69291 126.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 12 153.6506 12 re f*
+.960784 .960784 .862745 rg
+n 224.7518 12 39.6506 12 re f*
+.960784 .960784 .862745 rg
+n 353.6142 12 86.3494 12 re f*
+BT 1 0 0 1 0 14 Tm 3.650596 Tw 12 TL /F3 10 Tf 0 0 0 rg (some_dict.pop\("meddling"\) ) Tj /F1 10 Tf 0 0 0 rg (would return ) Tj /F3 10 Tf 0 0 0 rg ("kids" ) Tj /F1 10 Tf 0 0 0 rg (and remove the ) Tj /F3 10 Tf 0 0 0 rg ("meddling/kids") Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (key/value pair from the dictionary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 126.0661 cm
+Q
+q
+1 0 0 1 62.69291 120.0661 cm
+Q
+q
+1 0 0 1 62.69291 120.0661 cm
+Q
+q
+1 0 0 1 62.69291 108.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Getting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 108.0661 cm
+Q
+q
+1 0 0 1 62.69291 102.0661 cm
+Q
+q
+1 0 0 1 62.69291 78.06614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 126 12 re f*
+.960784 .960784 .862745 rg
+n 189.8 0 36 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_dict["meddling"] ) Tj /F1 10 Tf 0 0 0 rg (would return ) Tj /F3 10 Tf 0 0 0 rg ("kids") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<< /Length 14305 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 667.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 132 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (list\(some_dict.keys\(\)\) ) Tj /F1 10 Tf 0 0 0 rg (returns list of keys) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 144 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (list\(some_dict.values\(\)\) ) Tj /F1 10 Tf 0 0 0 rg (returns list of values) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 138 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (list\(some_dict.items\(\)\) ) Tj /F1 10 Tf 0 0 0 rg (returns list of tuples with all key/value pairs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.1339 cm
+Q
+q
+1 0 0 1 62.69291 661.1339 cm
+Q
+q
+1 0 0 1 62.69291 661.1339 cm
+Q
+q
+1 0 0 1 62.69291 649.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Setting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 649.1339 cm
+Q
+q
+1 0 0 1 62.69291 643.1339 cm
+Q
+q
+1 0 0 1 62.69291 625.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 331.3 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_dict["scooby"]) Tj ( ) Tj (=) Tj ( ) Tj ("doo" ) Tj /F1 10 Tf 0 0 0 rg (would key the value "doo" to the key ) Tj /F3 10 Tf 0 0 0 rg ("scooby") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 625.1339 cm
+Q
+q
+1 0 0 1 62.69291 598.1339 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 45 15 re f*
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (string) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 586.1339 cm
+Q
+q
+1 0 0 1 62.69291 586.1339 cm
+Q
+q
+1 0 0 1 62.69291 574.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Specs) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 574.1339 cm
+Q
+q
+1 0 0 1 62.69291 568.1339 cm
+Q
+q
+1 0 0 1 62.69291 532.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (stores text) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (behaves similarly to a list where every entry is a character) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.1339 cm
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+Q
+q
+1 0 0 1 62.69291 526.1339 cm
+Q
+q
+1 0 0 1 62.69291 514.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Creating new) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 514.1339 cm
+Q
+q
+1 0 0 1 62.69291 508.1339 cm
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 66 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 36 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_string) Tj ( ) Tj (=) Tj ( ) Tj ("test" ) Tj /F1 10 Tf 0 0 0 rg (creates a new string storing test) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 165.64 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Note that text in the string must have ) Tj /F3 10 Tf 0 0 0 rg (" ) Tj /F1 10 Tf 0 0 0 rg (around it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+q
+1 0 0 1 62.69291 466.1339 cm
+Q
+q
+1 0 0 1 62.69291 454.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adding new entry) Tj /F1 10 Tf (: can't be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 448.1339 cm
+Q
+q
+1 0 0 1 62.69291 436.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Removing entry) Tj /F1 10 Tf (: can't be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 430.1339 cm
+Q
+q
+1 0 0 1 62.69291 418.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Getting values) Tj /F1 10 Tf (: just like a list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 418.1339 cm
+Q
+q
+1 0 0 1 62.69291 412.1339 cm
+Q
+q
+1 0 0 1 62.69291 358.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 84 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_string[0] ) Tj /F1 10 Tf 0 0 0 rg (returns the first letter) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 90 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_string[-1] ) Tj /F1 10 Tf 0 0 0 rg (returns the last letter) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 96 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_string[1:3] ) Tj /F1 10 Tf 0 0 0 rg (returns the second and third letter) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 358.1339 cm
+Q
+q
+1 0 0 1 62.69291 352.1339 cm
+Q
+q
+1 0 0 1 62.69291 352.1339 cm
+Q
+q
+1 0 0 1 62.69291 340.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Setting values) Tj /F1 10 Tf (: just like a list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 340.1339 cm
+Q
+q
+1 0 0 1 62.69291 334.1339 cm
+Q
+q
+1 0 0 1 62.69291 316.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 84 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 218.82 0 18 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (some_string[0]) Tj ( ) Tj (=) Tj ( ) Tj ("c" ) Tj /F1 10 Tf 0 0 0 rg (sets the first letter to ) Tj /F3 10 Tf 0 0 0 rg ("c") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 316.1339 cm
+Q
+q
+1 0 0 1 62.69291 289.1339 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 82.5 15 re f*
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (numpy.array) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.1339 cm
+Q
+q
+1 0 0 1 62.69291 277.1339 cm
+Q
+q
+1 0 0 1 62.69291 265.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Specs) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 265.1339 cm
+Q
+q
+1 0 0 1 62.69291 259.1339 cm
+Q
+q
+1 0 0 1 62.69291 187.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (collection of numerical objects of the same type) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (less flexible than a list \(all objects must be same type, can't change dimensions after created\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (collection of numpy functions allow extremely fast enumeration and access) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 38.9 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 74.9 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 80.9 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (requires ) Tj /F3 10 Tf 0 0 0 rg (import) Tj ( ) Tj (numpy ) Tj /F1 10 Tf 0 0 0 rg (at top of program) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 187.1339 cm
+Q
+q
+1 0 0 1 62.69291 181.1339 cm
+Q
+q
+1 0 0 1 62.69291 181.1339 cm
+Q
+q
+1 0 0 1 62.69291 169.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Creating) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 169.1339 cm
+Q
+q
+1 0 0 1 62.69291 163.1339 cm
+Q
+q
+1 0 0 1 62.69291 115.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 180 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (numpy.zeros\(\(10,10\),dtype=int\) ) Tj /F1 10 Tf 0 0 0 rg (creates a new 10x10 integer array of zeros) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 12 228.8854 12 re f*
+BT 1 0 0 1 0 14 Tm .885417 Tw 12 TL /F3 10 Tf 0 0 0 rg (numpy.array\([1.0,1.3,2.3],dtype=float\) ) Tj /F1 10 Tf 0 0 0 rg (creates a new 3 entry array of floats with input) Tj T* 0 Tw (list values) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 115.1339 cm
+Q
+q
+1 0 0 1 62.69291 109.1339 cm
+Q
+q
+1 0 0 1 62.69291 109.1339 cm
+Q
+q
+1 0 0 1 62.69291 97.13386 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adding new entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 97.13386 cm
+Q
+q
+1 0 0 1 62.69291 91.13386 cm
+Q
+q
+1 0 0 1 296 79.13386 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<< /Length 7191 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 685.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Can't really be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 114 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (y) Tj ( ) Tj (=) Tj ( ) Tj (numpy.append\(x,1.0\) ) Tj /F1 10 Tf 0 0 0 rg (will create a copy of ) Tj /F4 10 Tf 0 0 0 rg (x ) Tj /F1 10 Tf 0 0 0 rg (with 1.0 appended to it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 679.1339 cm
+Q
+q
+1 0 0 1 62.69291 679.1339 cm
+Q
+q
+1 0 0 1 62.69291 667.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Removing entry) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.1339 cm
+Q
+q
+1 0 0 1 62.69291 661.1339 cm
+Q
+q
+1 0 0 1 62.69291 625.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Can't really be done) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 102 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (y) Tj ( ) Tj (=) Tj ( ) Tj (numpy.delete\(x,0\) ) Tj /F1 10 Tf 0 0 0 rg (will create a copy of ) Tj /F4 10 Tf 0 0 0 rg (y ) Tj /F1 10 Tf 0 0 0 rg (with the first element removed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 625.1339 cm
+Q
+q
+1 0 0 1 62.69291 619.1339 cm
+Q
+q
+1 0 0 1 62.69291 619.1339 cm
+Q
+q
+1 0 0 1 62.69291 607.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Getting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 607.1339 cm
+Q
+q
+1 0 0 1 62.69291 601.1339 cm
+Q
+q
+1 0 0 1 62.69291 493.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extremely powerful \(and sometimes complex\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x[0] ) Tj /F1 10 Tf 0 0 0 rg (returns the) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x[0,0,0] ) Tj /F1 10 Tf 0 0 0 rg (returns the bottom left corner of a 3d array) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 36 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x[0:5] ) Tj /F1 10 Tf 0 0 0 rg (returns the first five entries in a 1d array) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 36 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x[0,:] ) Tj /F1 10 Tf 0 0 0 rg (returns the whole first column of a 2d array) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 60 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (x[:,:,:,2] ) Tj /F1 10 Tf 0 0 0 rg (returns a 3d slice at the third position on along the fourth dimension of a 4d array) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 493.1339 cm
+Q
+q
+1 0 0 1 62.69291 487.1339 cm
+Q
+q
+1 0 0 1 62.69291 487.1339 cm
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Setting values) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+Q
+q
+1 0 0 1 62.69291 469.1339 cm
+Q
+q
+1 0 0 1 62.69291 451.1339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exact same indexing and slicing rules as getting values) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 451.1339 cm
+Q
+q
+1 0 0 1 62.69291 418.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Libraries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(how to import and stuff\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 382.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (important libraries math random numpy scipy matplotlib os combinations) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+38 0 obj
+<< /Nums [ 0 39 0 R 1 40 0 R 2 41 0 R 3 42 0 R 4 43 0 R 
+  5 44 0 R ] >>
+endobj
+39 0 obj
+<< /S /D /St 1 >>
+endobj
+40 0 obj
+<< /S /D /St 2 >>
+endobj
+41 0 obj
+<< /S /D /St 3 >>
+endobj
+42 0 obj
+<< /S /D /St 4 >>
+endobj
+43 0 obj
+<< /S /D /St 5 >>
+endobj
+44 0 obj
+<< /S /D /St 6 >>
+endobj
+xref
+0 45
+0000000000 65535 f
+0000000075 00000 n
+0000000149 00000 n
+0000000259 00000 n
+0000000374 00000 n
+0000000482 00000 n
+0000000600 00000 n
+0000000799 00000 n
+0000000921 00000 n
+0000001120 00000 n
+0000001319 00000 n
+0000001519 00000 n
+0000001719 00000 n
+0000001919 00000 n
+0000002028 00000 n
+0000002308 00000 n
+0000002386 00000 n
+0000002510 00000 n
+0000002639 00000 n
+0000002801 00000 n
+0000002915 00000 n
+0000003044 00000 n
+0000003173 00000 n
+0000003339 00000 n
+0000003465 00000 n
+0000003626 00000 n
+0000003734 00000 n
+0000003857 00000 n
+0000003979 00000 n
+0000004103 00000 n
+0000004219 00000 n
+0000004333 00000 n
+0000004429 00000 n
+0000014211 00000 n
+0000022103 00000 n
+0000034017 00000 n
+0000049294 00000 n
+0000063657 00000 n
+0000070905 00000 n
+0000070998 00000 n
+0000071035 00000 n
+0000071072 00000 n
+0000071109 00000 n
+0000071146 00000 n
+0000071183 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(#\332\261\334\216\200r\343\027\234\351\017\006\200>\237) (#\332\261\334\216\200r\343\027\234\351\017\006\200>\237)]
+ /Info 14 0 R /Root 13 0 R /Size 45 >>
+startxref
+71220
+%%EOF
