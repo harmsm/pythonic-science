@@ -62,9 +62,8 @@ Assignments
 
 Resources
 =========
-* `Python cheat sheet <https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf>`_.
+* `Cool Python cheat sheet <https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf>`_.
 * `Python cheat sheet <cheat-sheet.html>`_
-* jupyter notebook `cheat sheet <XX>`_.
 * main `github repo <https://github.com/harmsm/pythonic-science>`_.
 
 .. toctree::

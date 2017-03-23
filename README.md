@@ -5,7 +5,9 @@ Materials for Scientific Programming in Python Course at the UO
  * Install the scientific python computing stack. If you do not have anything
    installed yet, the best starting point is [anaconda](https://www.continuum.io/downloads).  This will auto-magically install everything. See below if you want to 
    do a manual install. 
- * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+ * Install git. There are a couple of options for this.  One is to install 
+   command line [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+   The other option would be a [GUI client](https://desktop.github.com/). 
  * Use `git` to clone the pythonic-science repository onto a convenient place
    on your computer:
     ```bash
@@ -14,9 +16,9 @@ Materials for Scientific Programming in Python Course at the UO
  * Fire up `jupyter` in the `pythonic-science` directory. (You'll have to 
    specify the start up folder as described [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)).
 
- * Open `Test Notebook.ipynb` by double-clicking on it in the jupyter window.
+ * Open `Test Notebook.ipynb` by clicking on it in the jupyter window.
  * Follow the directions in that notebook to make sure everything is installed
-   correctly.  It will print out missing packages if it cannot find them. 
+   correctly.  It will print out any missing packages if it cannot find them. 
 
 #### Manual install
 
