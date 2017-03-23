@@ -1,64 +1,44 @@
 # pythonic-science
 Materials for Scientific Programming in Python Course at the UO
 
-## Quick start
+## Set up the computing environment
+ * Install the scientific python computing stack. If you do not have anything
+   installed yet, the best starting point is [anaconda](https://www.continuum.io/downloads).  This will auto-magically install everything. See below if you want to 
+   do a manual install. 
+ * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+ * Use `git` to clone the pythonic-science repository onto a convenient place
+   on your computer:
+    ```bash
+        git clone https://github.com/harmsm/pythonic-science.git
+    ```
+ * Fire up `jupyter` in the `pythonic-science` directory. (You'll have to 
+   specify the start up folder as described [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)).
 
+ * Open `Test Notebook.ipynb` by double-clicking on it in the jupyter window.
+ * Follow the directions in that notebook to make sure everything is installed
+   correctly.  It will print out missing packages if it cannot find them. 
 
+#### Manual install
 
-## Motivation
+The instructions below will work for Mac or Linux.  If you're on Windows, I
+**strongly** recommend Anaconda. 
 
-Programming skills are increasingly integral to all aspects of physical and biological research. Programming competency enables science because the researcher is not limited to “canned” analyses and approaches. Rather, a scientific programmer can flexibly learn, apply and alter existing software as needed to answer scientific questions. This includes conceiving of and analyzing big-data experiments, mining databases of chemical and biological data, performing image analyses, fitting non-standard models to data, and prototyping experiments in silico to facilitate experimental design. 
+You'll need:
+ * [python3.x](https://www.python.org/downloads/)
+ * [jupyter](https://jupyter.org/install.html)
+ * [numpy and scipy](https://www.scipy.org/install.html)
+ * [matplotlib](http://matplotlib.org/users/installing.html)
+ * [pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
+ * [scikit-learn](http://scikit-learn.org/stable/install.html)
 
-Given the explosion of open source scientific software packages and libraries, a small amount of programming knowledge can allow for highly sophisticated analyses. A researcher needs to be able to find already-available tools, set them up locally, and then write a small amount of code to apply these general tools to their specific question. 
+After you've installed python3, you can use `pip3` to install everything with
+a single command.
 
-This course aims to teach these general skills. Students will not learn specific software packages or statistical/computational theory. Rather, the goal is for them to gain basic proficiency in the powerful and extensible Python programming language and have the confidence and skills to identify existing software libraries to leverage to further their research. 
+```bash
+    pip3 --user install numpy scipy matplotlib jupyter pandas sklearn
+```
 
-## Conceptual goals
-
-By the end of the course, students should understand:
-
- * Basic python: data types, key words, control, functions and imports
- * Core python extensions for scientists: scipy, numpy, and jupyter
- * Strategies for dissecting problems and formulating solutions in code
- * Where to go to pick up skills in the future as the need arises
-
-## Skill Goals
-
-By the end of the course, students will be able to:
-
- * Write basic python programs from scratch
- * Identify existing libraries for a problem and learn how to use them
- * Generate arbitrarily complex custom plots
- * Manipulate scientific datasets of the following types (at a basic level):
-   * High-throughput sequencing data 
-   * Sequence data from databases such as NCBI
-   * Chemical structure data from databases such as the PDB
-   * Images
-   * Videos
-
-## Approach
-
-Teach the students general programing skills through the lens of actual scientific problems. We'll spend two weeks covering the basic elements of programming, and then use real research tasks to hone, develop, and extend those basicskills.
-
-### Implementation
-Coding will be taught using a collaborative "pilot/co-pilot" model. Students work through exercises in class in pairs, trading between being "pilots" (actually typing) and "co-pilots" (watching and providing feedback). This fosters conversation (and thus material recall), collaborative problem solving, and helps separate the mechanics of coding from the concepts. 
-
-### Schedule for the 10-week course
-
-Programming and instruction will be done using the powerful and intuitive jupyter programming framework. 
-
-1. Introduction to python
-2. Introduction to python
-3. Model regression (`numpy`, `scipy`, `sklearn`)
-4. High-throughput data (`sklearn`)
-5. Sequence data 
-6. Chemical structural analysis (`pdb_tools`)
-7. Image data (`pillow`,`skimage`)
-8. Video data (`opencv`,`skvideo`)
-9. Open project
-10. Open project
-
-`sympy`?
-
-### Open Project
-To help cement their skills and gain independence, students will develop a useful program that addresses a problem in their current research. The code must use a python library that the student identifies that we did not explicitly discuss in class. 
+## Syllabus
+After you have cloned the `pythonic-science` repo, go to 
+`pythonic-science/docs/build/index.html` for the syllabus and links to all 
+course documents.
