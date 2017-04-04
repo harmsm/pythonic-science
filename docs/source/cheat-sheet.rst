@@ -266,20 +266,75 @@ List-like objects
 Libraries
 =========
 
-(how to import and stuff)
+Libraries are extensions of basic python that provide expanded functionality.
+To get access to a library, add a line like:
 
-important libraries
-math
-random
-numpy
-scipy
-matplotlib
-os
-combinations
+.. sourcecode:: python
+    import math
+
+You can then run this:
+
+.. sourcecode:: python
+    print(math.sin(1))
+
+You can assign imported modules more convenient names.  For example, the 
+following would do exactly the same as the above program.
+
+.. sourcecode:: python
+    import math as m
+    print(m.sin(1))
+
+You can also import functions (and other objects) from each module using the
+`from` syntax:
+
+.. sourcecode:: python
+    import math
+    from math import sin
+    print(sin(1))
+    
+
+Important libraries:
+--------------------
+
++ math (math functions)
++ random (generate random numbers)
++ numpy (fast arrays and some math functions)
++ scipy (tons of scienc-y extensions of python)
++ matplotlib (used for making complex plots)
++ os (used for doing things like listing files in a directory
++ combinations (used to make combinations and permutations efficiently)
 
 Functions
 =========
 
-stuff
+Functions are blocks of re-usable code that take arguments and return values.
+
+Functions are defined using the `def` keyword.  Anything indented under `def` 
+is part of the function.
+
+.. sourcecode:: python
+
+    def my_function(x):
+        
+        a = x + 2
+
+        return a*5
+
+    z = 5
+    print(my_function(z))
+
+
+Variables defined inside the function cannot be accessed outside of that 
+function.  :code:`a` from the function above is created and destroyed 
+every time the function is run.  
+
+.. warning::
+
+    Functions "know" about varibles outside the function.  If I used :code:`z`
+    inside of :code:`my_function`, the program would run fine.  This is a **bad**
+    idea because :code:`z` is then implicitly defined.  I could get a different
+    result if I run :code:`my_function(5)` **Always** pass in variables as
+    arguments (like :code:`x` above) rather than accessing them implicitly.
+
 
 

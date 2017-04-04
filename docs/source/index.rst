@@ -37,28 +37,51 @@ By the end of the course, students should be able to:
 + Generate arbitrarily complex custom plots
 + Simulate experimental sampling
 + Manipulate scientific datasets of the following types (at a basic level):
-  + High-throughput sequencing data 
-  + Chemical structure data from databases such as the PDB
-  + Images
+ + High-throughput sequencing data 
+ + Chemical structure data from databases such as the PDB
+ + Images
 
-Grading
-=======
-
+`Course schedule <schedule.html>`_
 
 Assignments
 ===========
 
-+ In the first two weeks, there will be micro-homework sets, due at 11:59 pm
-  each day.  The goal of these is to force you to practice programming in
-  short stretches every day.  
-+ There will be 7 labs.  We will start the labs on Fri in class.  They will
-  be due the following Wed in class. 
 + Project prospectus (Due May 12)
 + `Final project <final-project.html>`_ (Due June 12)
 
-`Course schedule <schedule.html>`_
+Weekly assignments
+------------------
 
-`Final project description <final-project.html>`_
+Option 1
+........
+
+There will be 8 labs.  We will start the labs on Fri in class.  They will
+be due the following Wed in class. Most students in the course should take this
+route.
+
+Option 2
+........
+
+If you have a lot of programming experience, you might want to use this class
+as an independent study course to dig into big programming project.  If this 
+is true:
+
++ Starting in the third week, you may substitute github commits on your project
+  for individual lab assignments. 
++ Rules:
+ + You must have already submitted your prospectus and had it approved
+ + You must make a public github repository for your project
+ + You must make a substantial commit for the week.  
+ + You must tell me you are taking this route each week.
+ + You must still attend class.
+
+Grading
+=======
+
++ Labs will be graded based on whether they are turned in, whether we can run
+  the notebook, and whether they notebooks give the right results.  
++ The final project will be graded according to the rubric given in the 
+  `Final project description <final-project.html>`_.  
 
 Resources
 =========
