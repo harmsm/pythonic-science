@@ -15,7 +15,7 @@ Contact
 =======
 
 + Mike Harms (harms@uoregon.edu)
-+ Zach Sailer (zsailer.uoregon.edu)
++ Zach Sailer (zsailer@uoregon.edu)
 
 Conceptual Goals
 ================
