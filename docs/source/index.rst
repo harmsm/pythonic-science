@@ -5,11 +5,11 @@ pythonic science
 CH410/510 Scientific Computing
 ==============================
 
-+ The class will meet Mon and Wed for 1 hr, and then Fri for 2 hr.  
++ The class will meet Mon and Wed for 1 hr, and then Fri for 2 hr.
 
 + In general, Mon and Wed will be instruction days where we cover new
-  programming material.  Fri will be an open "lab" where you will work on 
-  exercises in class. 
+  programming material.  Fri will be an open "lab" where you will work on
+  exercises in class.
 
 Contact
 =======
@@ -37,7 +37,7 @@ By the end of the course, students should be able to:
 + Generate arbitrarily complex custom plots
 + Simulate experimental sampling
 + Manipulate scientific datasets of the following types (at a basic level):
- + High-throughput sequencing data 
+ + High-throughput sequencing data
  + Chemical structure data from databases such as the PDB
  + Images
 
@@ -48,6 +48,15 @@ Assignments
 
 + Project prospectus (Due May 12)
 + `Final project <final-project.html>`_ (Due June 12)
+
+Jupyterhub
+----------
+
+All assignments will be distributed and collected via a Jupyterhub hosted at:
+
+`https://aclarke.uoregon.edu:8000 <https://aclarke.uoregon.edu:8000>`_
+
+For instructions on how to use this service, visit `this page <jupyterhub.html>`_.
 
 Weekly assignments
 ------------------
@@ -63,15 +72,15 @@ Option 2
 ........
 
 If you have a lot of programming experience, you might want to use this class
-as an independent study course to dig into big programming project.  If this 
+as an independent study course to dig into big programming project.  If this
 is true:
 
 + Starting in the third week, you may substitute github commits on your project
-  for individual lab assignments. 
+  for individual lab assignments.
 + Rules:
  + You must have already submitted your prospectus and had it approved
  + You must make a public github repository for your project
- + You must make a substantial commit for the week.  
+ + You must make a substantial commit for the week.
  + You must tell me you are taking this route each week.
  + You must still attend class.
 
@@ -79,9 +88,9 @@ Grading
 =======
 
 + Labs will be graded based on whether they are turned in, whether we can run
-  the notebook, and whether they notebooks give the right results.  
-+ The final project will be graded according to the rubric given in the 
-  `Final project description <final-project.html>`_.  
+  the notebook, and whether they notebooks give the right results.
++ The final project will be graded according to the rubric given in the
+  `Final project description <final-project.html>`_.
 
 Resources
 =========
