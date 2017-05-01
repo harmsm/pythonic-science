@@ -2,3 +2,4 @@ Line 1 of a file
 It can be a very long line -- up to a basically unlimited number of characters.
 
 just passed a blank line!
+1.5 2 20,32|5
