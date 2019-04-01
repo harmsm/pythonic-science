@@ -1,0 +1,677 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Python cheat sheet &mdash; pythonic-science 0.1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> pythonic-science
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.1
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">Python cheat sheet</a><ul>
+<li><a class="reference internal" href="#comparison-operators">Comparison operators</a></li>
+<li><a class="reference internal" href="#conditionals">Conditionals</a></li>
+<li><a class="reference internal" href="#loops">Loops</a><ul>
+<li><a class="reference internal" href="#for-syntax"><cite>for</cite> syntax</a></li>
+<li><a class="reference internal" href="#while-syntax"><cite>while</cite> syntax</a></li>
+<li><a class="reference internal" href="#continue-and-break-syntax"><code class="code docutils literal notranslate"><span class="pre">continue</span></code> and <code class="code docutils literal notranslate"><span class="pre">break</span></code> syntax</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#datatypes">Datatypes</a><ul>
+<li><a class="reference internal" href="#single-value-datatypes">Single-value datatypes</a></li>
+<li><a class="reference internal" href="#list-like-objects">List-like objects</a><ul>
+<li><a class="reference internal" href="#list"><code class="code docutils literal notranslate"><span class="pre">list</span></code></a></li>
+<li><a class="reference internal" href="#tuple"><code class="code docutils literal notranslate"><span class="pre">tuple</span></code></a></li>
+<li><a class="reference internal" href="#dict"><code class="code docutils literal notranslate"><span class="pre">dict</span></code></a></li>
+<li><a class="reference internal" href="#string"><code class="code docutils literal notranslate"><span class="pre">string</span></code></a></li>
+<li><a class="reference internal" href="#numpy-array"><code class="code docutils literal notranslate"><span class="pre">numpy.array</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#libraries">Libraries</a><ul>
+<li><a class="reference internal" href="#important-libraries">Important libraries:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#functions">Functions</a></li>
+</ul>
+</li>
+</ul>
+</div>
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">pythonic-science</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Python cheat sheet</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/cheat-sheet.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="python-cheat-sheet">
+<h1>Python cheat sheet<a class="headerlink" href="#python-cheat-sheet" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="comparison-operators">
+<h2>Comparison operators<a class="headerlink" href="#comparison-operators" title="Permalink to this headline">¶</a></h2>
+<p>Used to compare two objects.  Returns <code class="code docutils literal notranslate"><span class="pre">True</span></code> or <code class="code docutils literal notranslate"><span class="pre">False</span></code>.</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">&lt;</span> <span class="pre">y</span></code> (less than)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">&lt;=</span> <span class="pre">y</span></code> (less than or equal to)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">&gt;</span> <span class="pre">y</span></code> (greater than)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">&gt;=</span> <span class="pre">y</span></code> (greater than or equal to)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">==</span> <span class="pre">y</span></code> (is equal to)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x</span> <span class="pre">!=</span> <span class="pre">y</span></code> (is not equal to)</p></li>
+</ul>
+</div></blockquote>
+<p>These can be combined using <code class="code docutils literal notranslate"><span class="pre">and</span></code> and <code class="code docutils literal notranslate"><span class="pre">or</span></code>.</p>
+<p><strong>Example</strong></p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
+
+<span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="n">y</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is smaller than y&quot;</span><span class="p">)</span>
+
+<span class="k">if</span> <span class="p">(</span><span class="n">x</span> <span class="o">&lt;</span> <span class="n">y</span><span class="p">)</span> <span class="ow">and</span> <span class="p">(</span><span class="n">x</span> <span class="o">&lt;</span> <span class="mi">1</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is smaller than y and x is less than 1&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="conditionals">
+<h2>Conditionals<a class="headerlink" href="#conditionals" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">if</span> <span class="n">condition_one</span><span class="p">:</span>
+    <span class="n">do_something</span>
+<span class="k">elif</span> <span class="n">condition_two</span><span class="p">:</span>
+    <span class="n">do_something_else</span>
+<span class="k">elif</span> <span class="n">condition_three</span><span class="p">:</span>
+    <span class="n">do_another_thing</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">do_yet_another_thing</span>
+</pre></div>
+</div>
+<p>where <code class="code docutils literal notranslate"><span class="pre">condition_one</span></code>, <code class="code docutils literal notranslate"><span class="pre">condition_two</span></code> and <code class="code docutils literal notranslate"><span class="pre">condition_three</span></code>
+are things that can be read as <code class="code docutils literal notranslate"><span class="pre">True</span></code> or <code class="code docutils literal notranslate"><span class="pre">False</span></code>.  <cite>else</cite> is run if
+none of the other conditions are met.  If multiple conditions are met, only the
+first one is executed.</p>
+<p><strong>Example</strong></p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">2</span>
+<span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is negative&quot;</span><span class="p">)</span>
+<span class="k">elif</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is zero&quot;</span><span class="p">)</span>
+<span class="k">elif</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="ow">and</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="mi">100</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is positive but less than 100&quot;</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="s2">&quot;x is bigger than 100&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="loops">
+<h2>Loops<a class="headerlink" href="#loops" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="for-syntax">
+<h3><cite>for</cite> syntax<a class="headerlink" href="#for-syntax" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">iterator</span><span class="p">:</span>
+    <span class="n">something_to_x</span>
+</pre></div>
+</div>
+<p>where <code class="code docutils literal notranslate"><span class="pre">iterator</span></code> is something like <code class="code docutils literal notranslate"><span class="pre">range(10)</span></code> or a list that has
+multiple entries.</p>
+<p><strong>Example</strong>
+.. sourcecode:: python</p>
+<blockquote>
+<div><dl class="simple">
+<dt>for i in range(10):</dt><dd><p>print(i)</p>
+</dd>
+</dl>
+</div></blockquote>
+</div>
+<div class="section" id="while-syntax">
+<h3><cite>while</cite> syntax<a class="headerlink" href="#while-syntax" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">while</span> <span class="n">condition</span><span class="p">:</span>
+    <span class="n">something</span>
+</pre></div>
+</div>
+<p>where <code class="code docutils literal notranslate"><span class="pre">condition</span></code> is something that can be read as <code class="code docutils literal notranslate"><span class="pre">True</span></code> or
+<code class="code docutils literal notranslate"><span class="pre">False</span></code></p>
+<p><strong>Example</strong>
+.. sourcecode:: python</p>
+<blockquote>
+<div><p>i = 0
+while i &lt; 10:</p>
+<blockquote>
+<div><p>print(i)
+i = i + 1</p>
+</div></blockquote>
+</div></blockquote>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>If you forgot the <code class="code docutils literal notranslate"><span class="pre">i</span> <span class="pre">=</span> <span class="pre">i</span> <span class="pre">+</span> <span class="pre">1</span></code> line in the code above, it would create
+and infinite loop and your code would freeze.  This is a common mistake
+when using <code class="code docutils literal notranslate"><span class="pre">while</span></code> loops.</p>
+</div>
+</div>
+<div class="section" id="continue-and-break-syntax">
+<h3><code class="code docutils literal notranslate"><span class="pre">continue</span></code> and <code class="code docutils literal notranslate"><span class="pre">break</span></code> syntax<a class="headerlink" href="#continue-and-break-syntax" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">continue</span></code> hops to the next iteration of the loop</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">break</span></code> terminates the loop</p></li>
+</ul>
+<p><strong>Example</strong></p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Will print i from 6 to 90</span>
+<span class="n">i</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="k">while</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">100</span><span class="p">:</span>
+    <span class="n">i</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span>
+    <span class="k">if</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">5</span><span class="p">:</span>
+        <span class="k">continue</span>
+
+    <span class="k">if</span> <span class="n">i</span> <span class="o">&gt;</span> <span class="mi">90</span><span class="p">:</span>
+        <span class="k">break</span>
+
+    <span class="k">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="datatypes">
+<h2>Datatypes<a class="headerlink" href="#datatypes" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="single-value-datatypes">
+<h3>Single-value datatypes<a class="headerlink" href="#single-value-datatypes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">int</span></code> (integer)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">bool</span></code> (True or False)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">float</span></code> (decimal number)</p></li>
+</ul>
+</div>
+<div class="section" id="list-like-objects">
+<h3>List-like objects<a class="headerlink" href="#list-like-objects" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="list">
+<h4><code class="code docutils literal notranslate"><span class="pre">list</span></code><a class="headerlink" href="#list" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p><strong>Specs</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>collection of arbitrary objects</p></li>
+<li><p>indexed by number (starting from 0)</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Creating new</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list</span> <span class="pre">=</span> <span class="pre">[]</span></code> creates a new, empty list</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list</span> <span class="pre">=</span> <span class="pre">[1,2,3]</span></code> creates a new list with three entries</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Adding new entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list.append(1)</span></code> appends the integer <code class="code docutils literal notranslate"><span class="pre">1</span></code> to the end of the
+list</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list.append({})</span></code> appends an empty dictionary to the end of the
+list</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Remove entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list.pop(1)</span></code> returns the second entry and removes it from the
+list</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Getting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[0]</span></code> gives first entry in list</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[-1]</span></code> gives last entry in list</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[1:3]</span></code> gives the second and third entry in list</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Setting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[0]</span> <span class="pre">=</span> <span class="pre">5</span></code> sets the first value to <code class="code docutils literal notranslate"><span class="pre">5</span></code></p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[-1]</span> <span class="pre">=</span> <span class="pre">5</span></code> sets the last value to <code class="code docutils literal notranslate"><span class="pre">5</span></code></p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_list[1:3]</span> <span class="pre">=</span> <span class="pre">[&quot;test&quot;,8]</span></code> sets the second and third entries to
+<code class="code docutils literal notranslate"><span class="pre">&quot;test&quot;</span></code> and <code class="code docutils literal notranslate"><span class="pre">8</span></code>, respectively.</p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="tuple">
+<h4><code class="code docutils literal notranslate"><span class="pre">tuple</span></code><a class="headerlink" href="#tuple" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p><strong>Specs</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>collection of arbitrary objects</p></li>
+<li><p>behaves just like a list <em>except</em> that once it is created it cannot be
+modified.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Creating new</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_tuple</span> <span class="pre">=</span> <span class="pre">(1,2,3)</span></code> creates a new tuple</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Adding new entry</strong>: can’t be done</p></li>
+<li><p><strong>Remove entry</strong>: can’t be done</p></li>
+<li><p><strong>Getting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Indexing and slicing rules just like lists</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Setting values</strong>: can’t be done</p></li>
+</ul>
+</div>
+<div class="section" id="dict">
+<h4><code class="code docutils literal notranslate"><span class="pre">dict</span></code><a class="headerlink" href="#dict" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p><strong>Specs</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>collection of arbitrary objects</p></li>
+<li><p>objects are indexed by keys</p></li>
+<li><p>keys can be almost any type <em>except</em> lists and dictionaries.</p></li>
+<li><p>dictionaries are not ordered, meaning that if you loop through them
+more than once, the items could pop out in a different order</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Creating new</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict</span> <span class="pre">=</span> <span class="pre">{}</span></code> creates a new, empty dictionary</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict</span> <span class="pre">=</span> <span class="pre">{&quot;cows&quot;:27,18:&quot;dogs&quot;}</span></code> creates a new dictionary with
+<code class="code docutils literal notranslate"><span class="pre">&quot;cows&quot;</span></code> keying to the value <code class="code docutils literal notranslate"><span class="pre">27</span></code> and <code class="code docutils literal notranslate"><span class="pre">18</span></code> keying to the
+value <code class="code docutils literal notranslate"><span class="pre">&quot;dogs&quot;</span></code></p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Adding new entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict[&quot;meddling&quot;]</span> <span class="pre">=</span> <span class="pre">&quot;kids&quot;</span></code> creates a key/value pair where the
+key <code class="code docutils literal notranslate"><span class="pre">&quot;meddling&quot;</span></code> gives the value <code class="code docutils literal notranslate"><span class="pre">&quot;kids&quot;</span></code></p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Remove entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict.pop(&quot;meddling&quot;)</span></code> would return <code class="code docutils literal notranslate"><span class="pre">&quot;kids&quot;</span></code> and remove
+the <code class="code docutils literal notranslate"><span class="pre">&quot;meddling/kids&quot;</span></code> key/value pair from the dictionary</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Getting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict[&quot;meddling&quot;]</span></code> would return <code class="code docutils literal notranslate"><span class="pre">&quot;kids&quot;</span></code></p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">list(some_dict.keys())</span></code> returns list of keys</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">list(some_dict.values())</span></code> returns list of values</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">list(some_dict.items())</span></code> returns list of tuples with all key/value
+pairs</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Setting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_dict[&quot;scooby&quot;]</span> <span class="pre">=</span> <span class="pre">&quot;doo&quot;</span></code> would key the value “doo” to the key
+<code class="code docutils literal notranslate"><span class="pre">&quot;scooby&quot;</span></code></p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="string">
+<h4><code class="code docutils literal notranslate"><span class="pre">string</span></code><a class="headerlink" href="#string" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p><strong>Specs</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>stores text</p></li>
+<li><p>behaves similarly to a list where every entry is a character</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Creating new</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_string</span> <span class="pre">=</span> <span class="pre">&quot;test&quot;</span></code> creates a new string storing test</p></li>
+<li><p>Note that text in the string must have <code class="code docutils literal notranslate"><span class="pre">&quot;</span></code> around it.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Adding new entry</strong>: can’t be done</p></li>
+<li><p><strong>Removing entry</strong>: can’t be done</p></li>
+<li><p><strong>Getting values</strong>: just like a list</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_string[0]</span></code> returns the first letter</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_string[-1]</span></code> returns the last letter</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_string[1:3]</span></code> returns the second and third letter</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Setting values</strong>: just like a list</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">some_string[0]</span> <span class="pre">=</span> <span class="pre">&quot;c&quot;</span></code> sets the first letter to <code class="code docutils literal notranslate"><span class="pre">&quot;c&quot;</span></code></p></li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="numpy-array">
+<h4><code class="code docutils literal notranslate"><span class="pre">numpy.array</span></code><a class="headerlink" href="#numpy-array" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p><strong>Specs</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>collection of numerical objects of the same type</p></li>
+<li><p>less flexible than a list (all objects must be same type, can’t change
+dimensions after created).</p></li>
+<li><p>collection of numpy functions allow extremely fast enumeration and access</p></li>
+<li><p>requires <code class="code docutils literal notranslate"><span class="pre">import</span> <span class="pre">numpy</span></code> at top of program</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Creating</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p><code class="code docutils literal notranslate"><span class="pre">numpy.zeros((10,10),dtype=int)</span></code> creates a new 10x10 integer array of
+zeros</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">numpy.array([1.0,1.3,2.3],dtype=float)</span></code> creates a new 3 entry array
+of floats with input list values</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Adding new entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Can’t really be done</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">y</span> <span class="pre">=</span> <span class="pre">numpy.append(x,1.0)</span></code> will create a copy of <cite>x</cite> with 1.0 appended
+to it.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Removing entry</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Can’t really be done</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">y</span> <span class="pre">=</span> <span class="pre">numpy.delete(x,0)</span></code> will create a copy of <cite>y</cite> with the first
+element removed.</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Getting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Extremely powerful (and sometimes complex)</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x[0]</span></code> returns the</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x[0,0,0]</span></code> returns the bottom left corner of a 3d array</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x[0:5]</span></code> returns the first five entries in a 1d array</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x[0,:]</span></code> returns the whole first column of a 2d array</p></li>
+<li><p><code class="code docutils literal notranslate"><span class="pre">x[:,:,:,2]</span></code> returns a 3d slice at the third position on along the
+fourth dimension of a 4d array</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Setting values</strong>:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Exact same indexing and slicing rules as getting values</p></li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+</div>
+<div class="section" id="libraries">
+<h2>Libraries<a class="headerlink" href="#libraries" title="Permalink to this headline">¶</a></h2>
+<p>Libraries are extensions of basic python that provide expanded functionality.
+To get access to a library, add a line like:</p>
+<p>You can then run this:</p>
+<p>You can assign imported modules more convenient names.  For example, the
+following would do exactly the same as the above program.</p>
+<p>You can also import functions (and other objects) from each module using the
+<cite>from</cite> syntax:</p>
+<div class="section" id="important-libraries">
+<h3>Important libraries:<a class="headerlink" href="#important-libraries" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>math (math functions)</p></li>
+<li><p>random (generate random numbers)</p></li>
+<li><p>numpy (fast arrays and some math functions)</p></li>
+<li><p>scipy (tons of scienc-y extensions of python)</p></li>
+<li><p>matplotlib (used for making complex plots)</p></li>
+<li><p>os (used for doing things like listing files in a directory</p></li>
+<li><p>combinations (used to make combinations and permutations efficiently)</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="functions">
+<h2>Functions<a class="headerlink" href="#functions" title="Permalink to this headline">¶</a></h2>
+<p>Functions are blocks of re-usable code that take arguments and return values.</p>
+<p>Functions are defined using the <cite>def</cite> keyword.  Anything indented under <cite>def</cite>
+is part of the function.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">my_function</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+
+    <span class="n">a</span> <span class="o">=</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">2</span>
+
+    <span class="k">return</span> <span class="n">a</span><span class="o">*</span><span class="mi">5</span>
+
+<span class="n">z</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">print</span><span class="p">(</span><span class="n">my_function</span><span class="p">(</span><span class="n">z</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>Variables defined inside the function cannot be accessed outside of that
+function.  <code class="code docutils literal notranslate"><span class="pre">a</span></code> from the function above is created and destroyed
+every time the function is run.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Functions “know” about varibles outside the function.  If I used <code class="code docutils literal notranslate"><span class="pre">z</span></code>
+inside of <code class="code docutils literal notranslate"><span class="pre">my_function</span></code>, the program would run fine.  This is a <strong>bad</strong>
+idea because <code class="code docutils literal notranslate"><span class="pre">z</span></code> is then implicitly defined.  I could get a different
+result if I run <code class="code docutils literal notranslate"><span class="pre">my_function(5)</span></code> <strong>Always</strong> pass in variables as
+arguments (like <code class="code docutils literal notranslate"><span class="pre">x</span></code> above) rather than accessing them implicitly.</p>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2017, Michael J. Harms
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
