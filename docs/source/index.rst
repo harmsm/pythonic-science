@@ -60,10 +60,15 @@ Weekly assignments
 Grading
 =======
 
++ Breakdown:
+    + 25% attendance
+    + 25% final project
+    + 50% labs (6.25%/lab) 
 + Labs will be graded based on whether they are turned in, whether we can run
   the notebook, and whether they notebooks give the right results.
 + The final project will be graded according to the rubric given in the
   `Final project description <final-project.html>`_.
+
 
 Resources
 =========
