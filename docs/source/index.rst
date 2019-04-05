@@ -14,8 +14,8 @@ CH410/510 Scientific Computing
 Contact
 =======
 
-+ Mike Harms (harms@uoregon.edu)
-+ Joseph Harman (jharman@uoregon.edu)
++ Mike Harms (harms@uoregon.edu, OH: 12 pm Thursdays, Will 342)
++ Joseph Harman (jharman@uoregon.edu, OH: 1 pm Wednesdays, Will 342)
 
 Conceptual Goals
 ================
