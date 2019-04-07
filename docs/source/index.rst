@@ -11,11 +11,11 @@ CH410/510 Scientific Computing
   programming material.  Fri will be an open "lab" where you will work on
   exercises in class.
 
-Contact
-=======
+People
+======
 
-+ Mike Harms (harms@uoregon.edu, OH: 12 pm Thursdays, Will 342)
-+ Joseph Harman (jharman@uoregon.edu, OH: 1 pm Wednesdays, Will 342)
++ Mike Harms OH: 12 pm Thursdays, Will 342)
++ Joseph Harman OH: 1 pm Wednesdays, Will 342)
 
 Conceptual Goals
 ================
