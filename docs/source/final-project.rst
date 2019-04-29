@@ -60,7 +60,7 @@ What you turn in:
 Prospectus:
 -----------
 
-Due on (or, preferably, way before) Friday, May 12th. 
+Due on (or, preferably, way before) Friday, May 10th. 
 
 It should have the following (bullet points are fine):
 
@@ -82,7 +82,7 @@ addressed, I might ask for a revised version.
 Final project
 -------------
 
-Due on Monday, June 12th. 
+Due on Monday, June 10th. 
 
 You will turn in EITHER a url for a github repo OR a zipped directory containing
 your project.  The repo/directory should have the follwing structure:
