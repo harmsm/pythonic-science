@@ -11,11 +11,14 @@ CH410/510 Scientific Computing
   programming material.  Fri will be an open "lab" where you will work on
   exercises in class.
 
++ Because of COVID-19, we will do all coursework remotely for at least the first
+  three weeks.  Details on how this will work will be posted here.
+
 People
 ======
 
-+ Mike Harms OH: 12 pm Thursdays, Will 342)
-+ Joseph Harman OH: 1 pm Wednesdays, Will 342)
++ Mike Harms OH: 9 am Thursdays, Will 342
++ Luis Perez OH: TBA, Will 342
 
 Conceptual Goals
 ================
@@ -46,24 +49,26 @@ By the end of the course, students should be able to:
 Assignments
 ===========
 
-+ Project prospectus (Due May 10)
-+ `Final project <final-project.html>`_ (Due June 10)
++ Project prospectus (Due Friday, May 8)
++ `Final project <final-project.html>`_ (Due Monday, June 8)
 
 Weekly assignments
 ------------------
 
 + There will be 8 labs.
-+ We will (generally) start the labs on Fri in class.  
-+ They will be due the following Wed in class. 
++ We will (generally) start the labs on Fri in class.
++ They will be due the following Wed in class.
 + They can be turned in by email.
 
 Grading
 =======
 
 + Breakdown:
-    + 25% attendance
+    + 25% attendance.  (Details of the implementation of attendance during the
+      remote learning portion of the course will be posted here when they are
+      known.)
     + 25% final project
-    + 50% labs (6.25%/lab) 
+    + 50% labs (6.25%/lab)
 + Labs will be graded based on whether they are turned in, whether we can run
   the notebook, and whether they notebooks give the right results.
 + The final project will be graded according to the rubric given in the

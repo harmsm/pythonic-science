@@ -5,7 +5,6 @@ Online Reading Material
 
 On day one, stackoverflow, docs, etc.
 
-
 Reading
 -------
 
