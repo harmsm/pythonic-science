@@ -1,24 +1,16 @@
 # pythonic-science
-Materials for Scientific Programming in Python Course at the UO
 
-[Syllabus](https://pythonic-science.readthedocs.io/en/latest/)
+This repository holds the source material for a Scientific Computing course
+taught at the University of Oregon.  The easiest way to access the material is
+through the [course website](https://harmsm.github.io/scientific-computing).
 
-## Instructions to get rolling
- * Set up the computing environment, follow the instructions [here](https://python-for-scientists.readthedocs.io/en/latest/_pages/install_python.html)
+#### Types of content in this repository:
 
- * Install git. There are a couple of options for this.  One is to install 
-   command line [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-   The other option would be a [GUI client](https://desktop.github.com/). 
-
- * Use `git` to clone the pythonic-science repository onto a convenient place
-   on your computer:
-    ```bash
-        git clone https://github.com/harmsm/pythonic-science.git
-    ```
- * Fire up `jupyter` in the `pythonic-science` directory. (You'll have to 
-   specify the start up folder as described [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)).
-
- * Open `Test Notebook.ipynb` by clicking on it in the jupyter window.
- * Follow the directions in that notebook to make sure everything is installed
-   correctly.  It will print out any missing packages if it cannot find them. 
-
+ + *chapters*: jupyter notebooks that teach content.  These are a mixture of
+   interactive notebooks and slides.
+ + *labs*: jupyter notebooks that students work through as small groups.  These
+   are content-based and designed to present "real" problems faced by a
+   scientific programmer, largely in a molecular biology context.
+ + *zips*: zipped versions of the chapters and labs.  These can be used for
+   easy distribution for students not comfortable using git.
+ + *reference*: jupyter notebooks with reference material germane to the course.
