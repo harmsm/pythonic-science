@@ -112,19 +112,29 @@ class Rocket:
         F_y_thruster = self._y_thruster*self._EXHAUST_VELOCITY
         F_y_gravity = current_mass*self._GRAVITY
         F_y = F_y_thruster + F_y_gravity
-      
+     
         # Acceleration
         self._acceleration[0] = F_x/current_mass
         self._acceleration[1] = F_y/current_mass
-    
+        
         # Position
         self._position[0] = self._position[0] + self._velocity[0]*self._DT + 0.5*self._acceleration[0]*(self._DT)**2
-        self._position[1] = self._position[1] + self._velocity[1]*self._DT + 0.5*self._acceleration[1]*(self._DT)**2
-    
+        new_position_y    = self._position[1] + self._velocity[1]*self._DT + 0.5*self._acceleration[1]*(self._DT)**2
+
+        # If we hit the ground, make linear approximation in position and time 
+        # to figure out velocity at impact.
+        if new_position_y < 0:
+            fx_distance_traversed = self._position[1]/(self._position[1] - new_position_y)
+            dt = self._DT*fx_distance_traversed
+            self._position[1] = 0.0
+        else:
+            dt = self._DT
+            self._position[1] = new_position_y
+
         # Velocity
-        self._velocity[0] = self._velocity[0] + self._acceleration[0]*self._DT
-        self._velocity[1] = self._velocity[1] + self._acceleration[1]*self._DT
-        
+        self._velocity[0] = self._velocity[0] + self._acceleration[0]*dt
+        self._velocity[1] = self._velocity[1] + self._acceleration[1]*dt
+      
         if self._position[1] <= 0.0:
             
             # CRASHED
@@ -132,8 +142,6 @@ class Rocket:
                 self._alive = False    
             if abs(self._velocity[1]) > self._Y_VELOCITY_TOLERANCE:
                 self._alive = False
-                
-                
                 
             if self._alive:
                 self._position[1] = 0.0
